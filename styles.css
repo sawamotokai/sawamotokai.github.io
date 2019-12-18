@@ -14,6 +14,7 @@ body {
 	height: 100%;
 	max-width: 100%;
 	max-height: 100%;
+	position: absolute;
 	/* overflow-x: hidden; */
 }
 
@@ -136,7 +137,7 @@ a {
 	align-items: center;
 	justify-content: center;
 	height: 1080px;
-	background-image: url('/website/img/nanaimoPort.jpg');
+	background-image: url('img/nanaimoPort.jpg');
 	background-size: cover; /* <------ */
 	background-repeat: no-repeat;
 	background-position: center;
